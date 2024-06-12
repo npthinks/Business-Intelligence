@@ -1,0 +1,251 @@
+carID,car_color,car_make,car_model
+300,Goldenrod,Saab,900
+301,Yellow,Porsche,944
+302,Blue,Nissan,Stanza
+303,Green,Land Rover,Discovery
+304,Khaki,Land Rover,Discovery
+305,Orange,Ford,Excursion
+306,Crimson,Mercedes-Benz,E-Class
+307,Crimson,Isuzu,Space
+308,Khaki,Toyota,Tacoma
+309,Purple,Land Rover,Defender
+310,Puce,Nissan,Sentra
+311,Aquamarine,Ford,F-Series
+312,Teal,GMC,Yukon XL 1500
+313,Violet,Chevrolet,Express 2500
+314,Teal,Cadillac,CTS
+315,Fuscia,Toyota,Tacoma
+316,Puce,Mitsubishi,Montero Sport
+317,Puce,Volkswagen,Passat
+318,Turquoise,GMC,Yukon
+319,Red,Subaru,Legacy
+320,Puce,Mercury,Lynx
+321,Khaki,Scion,xB
+322,Orange,Acura,MDX
+323,Purple,Dodge,Ram Van 2500
+324,Goldenrod,Volvo,940
+325,Aquamarine,Mitsubishi,Diamante
+326,Orange,Mazda,B-Series
+327,Crimson,Chevrolet,Suburban 1500
+328,Purple,Audi,Q7
+329,Purple,Lotus,Elan
+330,Yellow,Subaru,Impreza
+331,Yellow,Maybach,57
+332,Yellow,Suzuki,Aerio
+333,Maroon,Chrysler,Town & Country
+334,Green,Toyota,Land Cruiser
+335,Indigo,Pontiac,GTO
+336,Turquoise,Chevrolet,G-Series G30
+337,Yellow,Infiniti,Q
+338,Khaki,Dodge,Ram Van 3500
+339,Teal,Toyota,Previa
+340,Mauv,Hyundai,Tiburon
+341,Turquoise,Hyundai,Sonata
+342,Violet,Pontiac,Bonneville
+343,Crimson,Nissan,200SX
+344,Purple,Ford,Ranger
+345,Khaki,Mercedes-Benz,W201
+346,Blue,GMC,Envoy XL
+347,Violet,MINI,Clubman
+348,Teal,Mazda,626
+349,Purple,Kia,Rio
+350,Puce,Dodge,Spirit
+351,Goldenrod,Subaru,Leone
+352,Pink,Maybach,57S
+353,Teal,Lincoln,Town Car
+354,Violet,Bentley,Azure
+355,Puce,Infiniti,Q
+356,Green,Nissan,Murano
+357,Green,Chevrolet,Venture
+358,Goldenrod,Toyota,MR2
+359,Green,Infiniti,I
+360,Fuscia,Plymouth,Voyager
+361,Orange,Chevrolet,Astro
+362,Pink,Chevrolet,Suburban 2500
+363,Mauv,Saab,9-3
+364,Red,Jaguar,XK
+365,Khaki,Ford,Freestar
+366,Fuscia,GMC,Yukon
+367,Turquoise,Lotus,Exige
+368,Red,Pontiac,Grand Prix
+369,Yellow,Pontiac,Vibe
+370,Blue,Subaru,Legacy
+371,Purple,Land Rover,Range Rover Evoque
+372,Goldenrod,Mercury,Cougar
+373,Turquoise,Dodge,Dakota Club
+374,Green,Chevrolet,3500
+375,Puce,Buick,Century
+376,Crimson,Ford,Freestar
+377,Crimson,Acura,RDX
+378,Khaki,Land Rover,LR4
+379,Fuscia,BMW,Z4
+380,Mauv,Rolls-Royce,Ghost
+381,Puce,Volvo,V40
+382,Green,Mitsubishi,Truck
+383,Crimson,Pontiac,Grand Am
+384,Purple,Toyota,Venza
+385,Aquamarine,Mazda,Miata MX-5
+386,Violet,Nissan,Maxima
+387,Indigo,Nissan,Versa
+388,Puce,Mazda,Mazda6
+389,Fuscia,Honda,Insight
+390,Mauv,GMC,Sierra Denali
+391,Teal,Toyota,RAV4
+392,Turquoise,Lotus,Elise
+393,Fuscia,Ford,Mustang
+394,Purple,Mitsubishi,Eclipse
+395,Green,Cadillac,Sixty Special
+396,Orange,Chevrolet,Silverado 2500
+397,Indigo,Infiniti,I
+398,Mauv,Chevrolet,Suburban 2500
+399,Blue,Subaru,Impreza WRX
+400,Aquamarine,Mercedes-Benz,E-Class
+401,Puce,BMW,600
+402,Aquamarine,Nissan,Titan
+403,Violet,Honda,Element
+404,Goldenrod,Saab,900
+405,Yellow,Acura,Integra
+406,Crimson,Chevrolet,Corvette
+407,Red,GMC,Envoy XL
+408,Blue,Subaru,SVX
+409,Puce,Lexus,HS
+410,Turquoise,Volkswagen,CC
+411,Orange,Chevrolet,Express 2500
+412,Blue,Pontiac,Grand Am
+413,Turquoise,Kia,Spectra
+414,Pink,Ford,Thunderbird
+415,Mauv,Audi,A8
+416,Mauv,Cadillac,CTS
+417,Indigo,Acura,MDX
+418,Blue,BMW,Z4
+419,Aquamarine,Jeep,Liberty
+420,Green,Mitsubishi,Mirage
+421,Aquamarine,Cadillac,STS
+422,Indigo,Ford,Windstar
+423,Turquoise,Nissan,300ZX
+424,Orange,Honda,Civic
+425,Violet,Pontiac,Bonneville
+426,Orange,Mitsubishi,Starion
+427,Blue,GMC,Savana 1500
+428,Orange,Hyundai,Elantra
+429,Red,Nissan,Frontier
+430,Maroon,Chevrolet,Express 2500
+431,Khaki,Chrysler,Concorde
+432,Pink,Mercedes-Benz,GL-Class
+433,Blue,Chrysler,Town & Country
+434,Pink,Mercedes-Benz,W201
+435,Mauv,Suzuki,Aerio
+436,Purple,Subaru,Impreza
+437,Crimson,Mercedes-Benz,CLS-Class
+438,Pink,BMW,3 Series
+439,Red,Volvo,S80
+440,Pink,Mercury,Cougar
+441,Fuscia,Ford,F-Series
+442,Maroon,Volkswagen,Cabriolet
+443,Indigo,Mercedes-Benz,SLK-Class
+444,Aquamarine,Ford,Taurus
+445,Violet,Toyota,FJ Cruiser
+446,Crimson,Kia,Sedona
+447,Crimson,Mitsubishi,Endeavor
+448,Crimson,GMC,Savana 2500
+449,Puce,Chevrolet,Express 2500
+450,Crimson,Isuzu,Oasis
+451,Goldenrod,BMW,Z4
+452,Mauv,Ford,Explorer
+453,Khaki,Volkswagen,rio
+454,Yellow,BMW,3 Series
+455,Pink,Chevrolet,Venture
+456,Mauv,Lincoln,MKS
+457,Puce,Nissan,350Z Roadster
+458,Puce,Ford,F250
+459,Fuscia,Pontiac,Vibe
+460,Violet,Mercedes-Benz,C-Class
+461,Blue,Chrysler,Grand Voyager
+462,Red,Chevrolet,Astro
+463,Orange,Audi,A6
+464,Blue,Pontiac,Grand Prix
+465,Blue,Chevrolet,Silverado 2500
+466,Goldenrod,Chevrolet,G-Series 1500
+467,Aquamarine,BMW,530
+468,Blue,Mazda,CX-9
+469,Pink,Oldsmobile,Achieva
+470,Mauv,Suzuki,SX4
+471,Blue,Saab,9000
+472,Blue,Dodge,Charger
+473,Turquoise,Mercedes-Benz,CL-Class
+474,Turquoise,Mazda,RX-8
+475,Khaki,GMC,Sierra
+476,Aquamarine,Mercedes-Benz,300CE
+477,Aquamarine,Geo,Tracker
+478,Yellow,Toyota,MR2
+479,Goldenrod,BMW,X6
+480,Indigo,Suzuki,Aerio
+481,Purple,Honda,Element
+482,Red,Nissan,GT-R
+483,Indigo,Cadillac,Eldorado
+484,Purple,Ford,F250
+485,Crimson,Chevrolet,Corvette
+486,Fuscia,Ford,Courier
+487,Purple,Suzuki,Sidekick
+488,Teal,Infiniti,J
+489,Orange,Honda,Civic
+490,Turquoise,Ford,Mustang
+491,Blue,Chrysler,Fifth Ave
+492,Crimson,Mercedes-Benz,C-Class
+493,Green,BMW,M
+494,Pink,Saturn,Outlook
+495,Turquoise,BMW,1 Series
+496,Yellow,Mercedes-Benz,GLK-Class
+497,Maroon,Dodge,D250 Club
+498,Blue,BMW,525
+499,Turquoise,Ford,Bronco II
+500,Indigo,Chevrolet,Express 1500
+501,Purple,Land Rover,Range Rover
+502,Mauv,Chrysler,PT Cruiser
+503,Puce,Chevrolet,Camaro
+504,Green,Toyota,Corolla
+505,Fuscia,Saturn,Aura
+506,Yellow,Nissan,Altima
+507,Indigo,Nissan,Frontier
+508,Crimson,Ford,Escape
+509,Maroon,BMW,1 Series
+510,Red,Chevrolet,G-Series G20
+511,Pink,Chrysler,Sebring
+512,Fuscia,Subaru,Legacy
+513,Teal,Nissan,Maxima
+514,Violet,Chrysler,Sebring
+515,Aquamarine,Volkswagen,Phaeton
+516,Yellow,Kia,Sorento
+517,Blue,Isuzu,Rodeo
+518,Teal,Mazda,929
+519,Goldenrod,Oldsmobile,Alero
+520,Purple,Lexus,RX
+521,Mauv,Ford,Mustang
+522,Violet,Honda,CR-V
+523,Teal,Ford,Thunderbird
+524,Fuscia,Chrysler,300
+525,Yellow,BMW,X5
+526,Blue,Toyota,MR2
+527,Purple,Mazda,Protege
+528,Mauv,Ford,F250
+529,Teal,Chevrolet,Silverado
+530,Purple,Chevrolet,Colorado
+531,Crimson,Mercedes-Benz,C-Class
+532,Fuscia,Buick,LeSabre
+533,Blue,Pontiac,Bonneville
+534,Mauv,Daewoo,Leganza
+535,Indigo,Audi,TT
+536,Goldenrod,Chevrolet,TrailBlazer
+537,Blue,Volvo,960
+538,Red,Ford,Explorer
+539,Crimson,Toyota,Camry
+540,Pink,Mercedes-Benz,W201
+541,Mauv,Cadillac,CTS
+542,Turquoise,Toyota,RAV4
+543,Purple,Toyota,Land Cruiser
+544,Khaki,Ford,Mustang
+545,Aquamarine,Mitsubishi,Mighty Max
+546,Turquoise,Chevrolet,G-Series G30
+547,Puce,Ford,Courier
+548,Red,Pontiac,Grand Prix
+549,Yellow,Ford,F250
