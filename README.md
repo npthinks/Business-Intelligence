@@ -1,5 +1,5 @@
 # Business-Intelligence
-Business Intelligence Project
+Data Warehouse & ETL Project – Car Rental Analytics
 
 **Motivation & Goals**
 Analyzing rental car data on the most popular automobile colors is driven by the goal of effectively meeting customer demand and optimizing fleet management. The car rental company may improve customer satisfaction, streamline inventory, and effectively allocate resources by knowing which colors are most frequently rented out. The goals involve identifying trends in color preferences among various demographic groups and geographic regions, optimizing marketing strategies to promote preferred colors, and adjusting procurement and inventory management protocols accordingly. By ensuring that the car composition reflects customer preferences, this study will boost operational effectiveness and encourage revenue growth. The results of the analysis can also be used to inform choices concerning customer experience initiatives, branding, and car purchases, all of which can increase the company's competitive edge. The main question that will be addressed is:
