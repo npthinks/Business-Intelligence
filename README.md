@@ -1,4 +1,4 @@
-***Data Warehouse and ETL Project — Car Rental Analytics***
+***Data Warehouse and ETL Project***
 
 **Project Overview**
 Built a data warehouse and analytics pipeline for a car rental dataset to uncover trends in customer preferences, fleet utilisation and revenue performance. The core business question driving the analysis was: what colour cars are rented most often, and how does that translate into revenue?
