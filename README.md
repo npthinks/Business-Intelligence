@@ -1,16 +1,18 @@
-# Business-Intelligence
-Data Warehouse & ETL Project – Car Rental Analytics
+***Data Warehouse and ETL Project — Car Rental Analytics***
 
-**Motivation & Goals**
-Analyzing rental car data on the most popular automobile colors is driven by the goal of effectively meeting customer demand and optimizing fleet management. The car rental company may improve customer satisfaction, streamline inventory, and effectively allocate resources by knowing which colors are most frequently rented out. The goals involve identifying trends in color preferences among various demographic groups and geographic regions, optimizing marketing strategies to promote preferred colors, and adjusting procurement and inventory management protocols accordingly. By ensuring that the car composition reflects customer preferences, this study will boost operational effectiveness and encourage revenue growth. The results of the analysis can also be used to inform choices concerning customer experience initiatives, branding, and car purchases, all of which can increase the company's competitive edge. The main question that will be addressed is:
-“What color cars are rented most often?”
+**Project Overview**
+Built a data warehouse and analytics pipeline for a car rental dataset to uncover trends in customer preferences, fleet utilisation and revenue performance. The core business question driving the analysis was: what colour cars are rented most often, and how does that translate into revenue?
+The goal was to move from raw transactional data to a clean, analytics-ready warehouse that business stakeholders could query and act on directly.
 
+**Source OLTP Schema**
+The source database consisted of four tables: Car, Rental, Customer and Rating. Cars were identified by Car_ID, rental transactions linked cars to customers via foreign keys, and the Rating table captured customer feedback tied to each rental. This formed the foundation for the ETL process.
 
-**Source OLTP schema**
-The four tables that make up the database structure are Rating, Car, Rental, and Customer. Each car is uniquely identified by its Car_ID, and the automobile Table has information on individual automobiles. The Rental Table keeps track of rental transactions by identifying which vehicle was hired for each transaction. It is connected to the automobile Table using the Car_ID foreign key .Each customer is assigned a unique Customer_ID, and customer data is kept in the Customer Table. The Rental Table uses the Customer_ID foreign key to access the Customer Table and associate each rental transaction with a specific customer. Lastly, the Rating Table contains client feedback about their rental experiences. The foreign key Rental_ID associates every rating with a rental.
+**Data Warehouse Design**
+Designed a snowflake schema dimensional warehouse with a central fact table, Facts_Rental, containing rental price as the core quantitative measure. Surrounding dimensions included Dimension_CustomerRental for demographic context, Dimension_Time for temporal trend analysis, Dimension_CarRental capturing car attributes including colour, and Dimension_RatingRental for customer satisfaction data.
+This structure enabled efficient analysis of colour preferences across time periods, customer segments and revenue impact.
 
-**Dimensions & Facts of DW**
-The fact table, Facts_Rental, includes the rental price as a quantitative measure. Surrounding it are dimensions like Dimension_CustomerRental, providing demographic context, Dimension_Time for temporal analysis of color trends, Dimension_CarRental with car attributes including color for preference analysis, and Dimension_RatingRental for customer feedback on color choices. This setup, following a snowflake schema, efficiently analyzes color preferences to meet demand, optimize fleet management, and enhance operational effectiveness.
+**Analysis and Insights**
+Built a SQL view in MySQL to surface the most popular car colours by rental frequency and total revenue for 2020. Revenue was calculated by multiplying rental price per day by rental duration, aggregated by colour. Results showed that crimson was the most frequently rented colour in 2020, while turquoise generated the highest total revenue, an insight with direct implications for procurement, inventory planning and marketing strategy.
 
-**View in MySQL**
-The following query creates a view named ‘view_most_popular_colors_2020’ within the car_rental schema. The view is structured to display the most popular colors based on rental frequency for the year 2020. It does this by selecting the color of the car and two calculated fields: the total numbers of times cars of a particular color have been rented (‘rental_count’) and the total revenue generated from each color (‘total_revenue’). The revenue is calculated by multiplying the rental price per day by the duration of the rental in days, summed for all rentals of that particular color. The query selects only for data between 01/01/2020 to 31/12/2020. The results are grouped by color and ordered by ‘rental_count’ so that the most frequent color appears at the top. The revenue is added to provide insight into how much each color contributes to the revenue in absolute terms. The output shows that cars with crimson color were most popular in the year 2020, but the second most popular option, turquoise, brought the most revenue.
+**Business Impact**
+The analysis provided actionable intelligence for fleet composition decisions, procurement planning and customer experience strategy. By aligning inventory with demonstrated colour preferences across demographic and geographic segments, the findings support both operational efficiency and revenue growth.
